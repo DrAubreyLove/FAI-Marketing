@@ -8,7 +8,7 @@
         </h1>
       </header>
       <article class="main">
-        <p>
+        <p style="color: #000">
           A Collection of Valuable Tips From Marketing Strategy Specialists and Entrepreneurs. Purchase the
           book and get the inside tips, tricks, and techniques several hundreds of thousands of Entrepreneurs
           use every single day in order to help boost and promote their company!
