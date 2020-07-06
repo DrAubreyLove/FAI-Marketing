@@ -43,6 +43,10 @@ include('portfolio.php');
 ?>
 
 <?php
+include('e-book.php');
+?>
+
+<?php
 include('team.php');
 ?>
 

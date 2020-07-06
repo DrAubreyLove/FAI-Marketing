@@ -1694,3 +1694,52 @@ section {
 #footer .credits a {
   transition: 0.3s;
 }
+
+
+/* ====================================================================== */
+
+/* Add Flexbox CSS */
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
+}
+
+.wrapper > * {
+  padding: 10px;
+  flex: 1 100%;
+}
+
+.header {
+  background: transparent;
+}
+
+.footer {
+  background: transparent;
+}
+
+.main {
+  text-align: left;
+  background: transparent;
+}
+
+.aside-1 {
+  background: transparent;
+}
+
+.aside-2 {
+  background: transparent;
+}
+
+@media all and (min-width: 600px) {
+  .aside { flex: 1 0 0; }
+}
+
+@media all and (min-width: 800px) {
+  .main    { flex: 3 0px; }
+  .aside-1 { order: 1; }
+  .main    { order: 2; }
+  .aside-2 { order: 3; }
+  .footer  { order: 4; }
+}

@@ -6,6 +6,7 @@
     <div class="d-flex">
       <a href="#about" class="btn-get-started scrollto">Free Industry Article</a>&nbsp;&nbsp;&nbsp;
       <a href="https://join.slack.com/share/zt-fmmq5kqb-~xhT2YBzk5roie5xXc7rzA" class="btn btn-primary btn-lg">Join Us On Slack!</a>
+      <a href="/downloads/FAI_Strategy_Workbook_Vol_1.pdf" target="_blank">WorkBook</a>
     </div>
   </div>
 </section>
