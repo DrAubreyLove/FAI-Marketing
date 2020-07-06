@@ -9,7 +9,7 @@
             <i class="ri-brush-4-line"></i>
           </div>
           <div class="card-body">
-            <h5 class="card-title"><a href="">Ethical Practices</a></h5>
+            <h5 class="card-title"><a href="">Web-Based Applications</a></h5>
             <p class="card-text">
               To provide integral marketing practices
               to any and all companies! Our specialty is providing marketing infrastructure to aid in
@@ -25,7 +25,7 @@
             <i class="ri-calendar-check-line"></i>
           </div>
           <div class="card-body">
-            <h5 class="card-title"><a href="">Courageous Campaigns</a></h5>
+            <h5 class="card-title"><a href="">Your Next Project</a></h5>
             <p class="card-text">
               We revolutionize advertising framework through our bold, creative,
               and cutting-edge marketing and web design strategies! Using our
@@ -42,7 +42,7 @@
             <i class="ri-movie-2-line"></i>
           </div>
           <div class="card-body">
-            <h5 class="card-title"><a href="">Committed To Success</a></h5>
+            <h5 class="card-title"><a href="">Start Fresh</a></h5>
             <p class="card-text">
               We tenaciously deliver step-by-step processes and easily accessible services to ensure
               anyone and everyone (Military | College Student | Non-Profit | Fortune 500) can get the
