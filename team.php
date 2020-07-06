@@ -29,7 +29,7 @@
           <div class="pic"><img src="assets/img/team/emily.png" style="height: 350px; width: 350px" class="img-fluid" alt=""></div>
           <div class="member-info">
             <h4>Emily Pearson</h4>
-            <span>Sales Manager</span>
+            <span>Social Coordinator</span>
             <div class="social">
               <a href=""><i class="icofont-twitter"></i></a>
               <a href=""><i class="icofont-facebook"></i></a>
@@ -45,7 +45,7 @@
           <div class="pic"><img src="assets/img/team/aubrey.jpg" style="height: 350px; width: 350px;" class="img-fluid" alt=""></div>
           <div class="member-info">
             <h4>Dr. Aubrey Love</h4>
-            <span>Chief Technology Officer</span>
+            <span>CTO/Coder</span>
             <div class="social">
               <a href="https://twitter.com/C0d3_N3rd" target="_blank"><i class="icofont-twitter"></i></a>
               <a href="https://www.facebook.com/aubrey.love.7140/" target="_blank"><i class="icofont-facebook"></i></a>
