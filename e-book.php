@@ -18,36 +18,26 @@
         <img src="/assets/img/FAI_E-Book_Ad_V2.png" style="width: 300px; height: 300px">
       </aside>
       <aside class="aside aside-2">
-        <img src="/assets/img/FAI_9500_Package_Ad_V3.png" style="width: 300px; height: 300px;">
+        <h1 style="font-size: 20px; text-shadow: 4px 4px 6px #FFF; color: #000">
+          Titles Coming Soon;
+        </h1>
+        <p style="font-size: 15px; color: #000; text-align: left">
+          * <b><u>Mind Mapping</u></b><br/>
+          &nbsp;&nbsp;Unlocking Unlimited Potential with 1 Single Idea<br/>
+          <br/>
+          * <b><u>Cyber Security</u></b><br/>
+          &nbsp;&nbsp;The ins and outs of keeping you & your customers safe online!<br/>
+          <br/>
+          * <b><u>Information Technology</u></b><br/>
+          &nbsp;&nbsp;Learn what it takes to have a Team of IT staff
       </aside>
       <footer class="footer">
-        <div id="paypal-button-container"></div>
-        <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
-        <script>
-          paypal.Buttons({
-              style: {
-                  shape: 'pill',
-                  color: 'gold',
-                  layout: 'horizontal',
-                  label: 'buynow',
-
-              },
-              createOrder: function(data, actions) {
-                  return actions.order.create({
-                      purchase_units: [{
-                          amount: {
-                              value: '15'
-                          }
-                      }]
-                  });
-              },
-              onApprove: function(data, actions) {
-                  return actions.order.capture().then(function(details) {
-                      alert('Transaction completed by ' + details.payer.name.given_name + '!');
-                  });
-              }
-          }).render('#paypal-button-container');
-        </script>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="EW92HDLDZDXZJ">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
       </footer>
     </div>
 
