@@ -55,7 +55,7 @@
 
   <div class="container">
     <div class="copyright">
-      &copy; Copyright <strong><span>FAI</span></strong>. All Rights Reserved
+      &copy; Copyright <strong><span>FAi Marketing</span></strong>. All Rights Reserved
     </div>
     <div class="credits">
       Designed by C.T.O.:&nbsp;&nbsp;&nbsp;<a href="https://github.com/DrAubreyLove" target="_blank">C0d3 N3rd</a>

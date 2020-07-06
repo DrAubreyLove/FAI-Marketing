@@ -49,7 +49,7 @@
       </div>
 
       <div class="col-lg-6 pt-3 pt-lg-0 content">
-        <h3><strong>FAI Inc</strong> ~ We're committed to revolutionizing your company's <strong>HEALTH</strong></h3>
+        <h3><strong>FAi Marketing</strong> ~ We're committed to revolutionizing your company's <strong>HEALTH</strong></h3>
         <p class="font-italic">
            through our transformative Planting Model, we aim to:<br/>
         </p>
@@ -62,7 +62,7 @@
           <li><i class="bx bx-check-double"></i> <strong>(H)</strong>armonize your company processes to meet ideal customer's demands</li>
         </ul>
         <p>
-          Your company is just as unique as you are! So why settle for any other company? <strong>FAI</strong> Is your one-stop-shop
+          Your company is just as unique as you are! So why settle for any other company? <strong>FAi Marketing</strong> Is your one-stop-shop
           for your Business-In-A-Box needs! Literally everything you need done to help promote, boost, enhance, and flurish your business, we can do it!
         </p>
       </div>

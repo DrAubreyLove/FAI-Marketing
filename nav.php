@@ -1,7 +1,7 @@
 <header id="header" class="fixed-top ">
   <div class="container-fluid d-flex align-items-center justify-content-between">
 
-    <h1 class="logo"><a href="index.html">FAI Inc</a></h1>
+    <h1 class="logo"><a href="index.html">FAi Marketing</a></h1>
 
     <nav class="nav-menu d-none d-lg-block">
       <ul>

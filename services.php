@@ -18,7 +18,7 @@
         <div class="icon-box">
           <i class="icofont-chart-bar-graph"></i>
           <h4><a href="#">Marketing Strategies</a></h4>
-          <p>Getting your company out there is hard enough, let alone discovering how to do it on your own. <strong>FAI</strong> has taken all of that work out, allowing you to get back to your company!</p>
+          <p>Getting your company out there is hard enough, let alone discovering how to do it on your own. <strong>FAi Marketing</strong> has taken all of that work out, allowing you to get back to your company!</p>
         </div>
       </div>
       <div class="col-md-6 mt-4 mt-md-0">

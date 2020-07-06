@@ -28,7 +28,7 @@
           <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
             <h3>Starter Package</h3>
             <p class="font-italic">
-              Not sure where to start? Just launched your company and confused on where to go? <strong>FAI</strong> is here to help!
+              Not sure where to start? Just launched your company and confused on where to go? <strong>FAi Marketing</strong> is here to help!
             </p>
             <ul>
               <li><i class="ri-check-double-line"></i> Social Media Marketing</li>
@@ -57,10 +57,10 @@
             <h3>Advanced Package</h3>
             <p>
               Now that your business is successful, it is time you ventured and grew your business higher than you ever imagined!
-              <strong>FAI</strong> is here!
+              <strong>FAi Marketing</strong> is here!
             </p>
             <p class="font-italic">
-              Quickly grow your business from a mid-level to Fortune 500 in no time at all with assistance from <strong>FAI</strong>
+              Quickly grow your business from a mid-level to Fortune 500 in no time at all with assistance from <strong>FAi Marketing</strong>
             </p>
             <ul>
               <li><i class="ri-check-double-line"></i> Website Built For Your Online Exposure!</li>
@@ -98,7 +98,7 @@
               <li><i class="ri-check-double-line"></i> Custom Catered Exposure & Marketing Techniques</li>
             </ul>
             <p class="font-italic">
-              Do not stress over your current work load. <strong>FAI</strong> will ensure your
+              Do not stress over your current work load. <strong>FAi Marketing</strong> will ensure your
               company is working perfectly and smoothly from the inside out!
             </p>
             <p>
