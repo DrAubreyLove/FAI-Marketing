@@ -1743,3 +1743,10 @@ section {
   .aside-2 { order: 3; }
   .footer  { order: 4; }
 }
+
+.frm_srv_p
+{
+  font-size: 15px;
+  color: #000;
+  text-shadow: 4px 4px 6px #C0C0C0;
+}

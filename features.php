@@ -158,9 +158,6 @@
             </p>
             <p>
               Please Feel Free To Select The Services You Need;
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-              <input type="hidden" name="cmd" value="_s-xclick">
-              <input type="hidden" name="hosted_button_id" value="6G768HNKRYWFC">
               <table>
                 <tr>
                   <td>
@@ -169,18 +166,102 @@
                 </tr>
                 <tr>
                   <td>
-                    <input type="checkbox" value="Web: Web-Based Application">Web: Web-Based Application $5,550.00 USD</input><br/>
-                    <input type="checkbox" value="Web: E-Commerce Style">Web: E-Commerce Style $1,550.00 USD</input><br/>
-                    <input type="checkbox" value="Web: Informational">Web: Informational $650.00 USD</input><br/>
-                    <input type="checkbox" value="Web: WordPress Design Edits {Hourly}">Web: WordPress Design Edits {Hourly} $100.00 USD</input><br/>
-                    <input type="checkbox" value="Mobile Apps: E-Commerce">Mobile Apps: E-Commerce $1,800.00 USD</input><br/>
-                    <input type="checkbox" value="Mobile Apps: Informational">Mobile Apps: Informational $1,200.00 USD</input><br/>
-                    <input type="checkbox" value="Hosting: Basic {Monthly}">Hosting: Basic {Monthly} $8.00 USD</input><br/>
-                    <input type="checkbox" value="Hosting: Advanced {Monthly}">Hosting: Advanced {Monthly} $13.00 USD</input><br/>
-                    <input type="checkbox" value="Hosting: Ultimate {Monthly}">Hosting: Ultimate {Monthly} $25.00 USD</input><br/>
-                    <input type="checkbox" value="Cyber Security: Advanced {Monthly}">Cyber Security: Advanced {Monthly} $10.00 USD</input><br/>
-                    <input type="checkbox" value="Cyber Security: Ultimate {Monthly}">Cyber Security: Ultimate {Monthly} $20.00 USD</input><br/>
-                    <input type="checkbox" value="Consultation: I.T. Consultant {Hourly}">Consultation: I.T. Consultant {Hourly} $160.00 USD</input>
+                    <p class="frm_srv_p">Web: Web-Based Application (CRM) $5,550.00 USD
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="7F5DFBHXNBVLS">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Web: E-Commerce Style $1,550.00 USD
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="F7UJEWFLJSFL6">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Web: Informational $650.00 USD
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="F7UJEWFLJSFL6">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Web: Website Design Edits {Hourly} $100.00 USD
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="U32C9XEK74SEY">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Mobile Apps: E-Commerce $1,800.00 USD
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="XQY8SHNP9X4HY">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Mobile Apps: Informational $1,200.00 USD
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="9TFRKH4Q52FGQ">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Hosting: Basic $8.00 USD {Monthly}
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="PDGZ7FZZCJ86E">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Hosting: Advanced $13.00 USD {Monthly}
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="F5UHT34T798CN">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Hosting: Ultimate $25.00 USD {Monthly}
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="UK5B988A8RFFJ">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Cyber Security: Ultimate $20.00 USD {Monthly}
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="XHGDDJFPW22D2">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Cyber Security: Advanced $10.00 USD {Monthly}
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="WAX3F63D9QBUS">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
+                    <p class="frm_srv_p">Consultation: I.T. Consultation $160.00 {Hourly}
+                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="LNT3ZGY7QBQ22">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                      </form>
+                    </p>
                    </td>
                  </tr>
                  <tr>
@@ -190,15 +271,78 @@
                  </tr>
                  <tr>
                    <td>
-                     <input type="checkbox" value="Branding: Marketing Pitch Presentation">Branding: Marketing Pitch Presentation $500.00 USD</input><br/>
-                     <input type="checkbox" value="Branding: Bilboard Design">Branding: Bilboard Design $500.00 USD</input><br/>
-                     <input type="checkbox" value="Branding: Magazine Design">Branding: Magazine Design $500.00 USD</input><br/>
-                     <input type="checkbox" value="Branding: Graphical Ads">Branding: Graphical Ads $200.00 USD</input><br/>
-                     <input type="checkbox" value="Branding: Logo Design">Branding: Logo Design $200.00 USD</input><br/>
-                     <input type="checkbox" value="Branding: Brochures">Branding: Brochures $50.00 USD</input><br/>
-                     <input type="checkbox" value="Branding: Business Cards">Branding: Business Cards $50.00 USD</input><br/>
-                     <input type="checkbox" value="Branding: Postcards">Branding: Postcards $50.00 USD</input><br/>
-                     <input type="checkbox" value="Branding: Posters">Branding: Posters $50.00 USD</input>
+                     <p class="frm_srv_p">Branding: Marketing Pitch Presentation $500.00 USD
+                       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                         <input type="hidden" name="cmd" value="_s-xclick">
+                         <input type="hidden" name="hosted_button_id" value="W4KVFAKDWCXWL">
+                         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                       </form>
+                     </p>
+                     <p class="frm_srv_p">Branding: Bilboard Design $500.00 USD
+                       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                         <input type="hidden" name="cmd" value="_s-xclick">
+                         <input type="hidden" name="hosted_button_id" value="96EXEPP42UDR8">
+                         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                       </form>
+                     </p>
+                     <p class="frm_srv_p">Branding: Magazine Design $500.00 USD
+                       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                         <input type="hidden" name="cmd" value="_s-xclick">
+                         <input type="hidden" name="hosted_button_id" value="5LD2CJ6FS3RME">
+                         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                       </form>
+                     </p>
+                     <p class="frm_srv_p">Branding: Graphical Ads $200.00 USD
+                       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                         <input type="hidden" name="cmd" value="_s-xclick">
+                         <input type="hidden" name="hosted_button_id" value="33QY577TAQXEY">
+                         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                       </form>
+                     </p>
+                     <p class="frm_srv_p">Branding: Logo Design $200.00 USD
+                       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                         <input type="hidden" name="cmd" value="_s-xclick">
+                         <input type="hidden" name="hosted_button_id" value="2NWJ25HCEGVS8">
+                         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                       </form>
+                     </p>
+                     <p class="frm_srv_p">Branding: Brochures $50.00 USD
+                       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                         <input type="hidden" name="cmd" value="_s-xclick">
+                         <input type="hidden" name="hosted_button_id" value="GAHVTN5L65TFA">
+                         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                       </form>
+                     </p>
+                     <p class="frm_srv_p">Branding: Business Cards $50.00
+                       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                         <input type="hidden" name="cmd" value="_s-xclick">
+                         <input type="hidden" name="hosted_button_id" value="VDRC4SAM9JSHC">
+                         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                       </form>
+                     </p>
+                     <p class="frm_srv_p">Branding: Postcards $50.00 USD
+                       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                         <input type="hidden" name="cmd" value="_s-xclick">
+                         <input type="hidden" name="hosted_button_id" value="D4XX4YHEG23RG">
+                         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                       </form>
+                     </p>
+                     <p class="frm_srv_p">Branding: Posters $50.00 USD
+                       <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                         <input type="hidden" name="cmd" value="_s-xclick">
+                         <input type="hidden" name="hosted_button_id" value="5B75BG2YPMV5E">
+                         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                       </form>
+                     </p>
                     </td>
                   </tr>
                   <tr>
@@ -208,12 +352,54 @@
                   </tr>
                   <tr>
                     <td>
-                      <input type="checkbox" value="Marketing: Marketing Analysis (Expert)">Marketing: Marketing Analysis (Expert) $500.00 USD</input><br/>
-                      <input type="checkbox" value="Marketing: Marketing Analysis (Basic)">Marketing: Marketing Analysis (Basic) $200.00 USD</input><br/>
-                      <input type="checkbox" value="Marketing: Marketing Writing Plan">Marketing: Marketing Writing Plan $200.00 USD</input><br/>
-                      <input type="checkbox" value="Marketing: Marketing COnsultants {Hourly}">Marketing: Marketing Consultants {Hourly} $160.00 USD</input><br/>
-                      <input type="checkbox" value="Marketing: E-Mail Blast Compaigns {Monthly}">Marketing: E-Mail Blast Campaigns {Monthly} $75.00 USD</input><br/>
-                      <input type="checkbox" value="Marketing: Strategic Workbooks">Marketing: Strategic Workbooks $15.00 USD</input>
+                      <p class="frm_srv_p">Marketing: Marketing Analysis (Expert) $500.00 USD
+                        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                          <input type="hidden" name="cmd" value="_s-xclick">
+                          <input type="hidden" name="hosted_button_id" value="925PR7PD2HFNE">
+                          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                      </p>
+                      <p class="frm_srv_p">Marketing: Marketing Analysis (Basic) $200.00 USD
+                        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                          <input type="hidden" name="cmd" value="_s-xclick">
+                          <input type="hidden" name="hosted_button_id" value="QW6NSY4MQUH82">
+                          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                      </p>
+                      <p class="frm_srv_p">Marketing: Marketing Writing Plan $200.00 USD
+                        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                          <input type="hidden" name="cmd" value="_s-xclick">
+                          <input type="hidden" name="hosted_button_id" value="ZDBZTYPW55QTG">
+                          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                      </p>
+                      <p class="frm_srv_p">Marketing: Marketing Consultants {Hourly} $160.00
+                        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                          <input type="hidden" name="cmd" value="_s-xclick">
+                          <input type="hidden" name="hosted_button_id" value="2HR6FGRBXKH44">
+                          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                      </p>
+                      <p class="frm_srv_p">Marketing: E-Mail Blast Campaigns $75.00 USD {Monthly}
+                        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                          <input type="hidden" name="cmd" value="_s-xclick">
+                          <input type="hidden" name="hosted_button_id" value="AUNHFDKT6KU5W">
+                          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                      </p>
+                      <p class="frm_srv_p">Marketing: Strategic Workbooks $15.00 USD
+                        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                          <input type="hidden" name="cmd" value="_s-xclick">
+                          <input type="hidden" name="hosted_button_id" value="C2DHXFWP5MUPU">
+                          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                      </p>
                      </td>
                    </tr>
                    <tr>
@@ -223,17 +409,41 @@
                    </tr>
                    <tr>
                      <td>
-                       <input type="checkbox" value="Social Media: Social Media Analysis">Social Media: Social Media Analysis $150.00 USD</input><br/>
-                       <input type="checkbox" value="Social Media: Social Media Mangement {Hourly}">Social Media: Social Media Management {Hourly} $150.00 USD</input><br/>
-                       <input type="checkbox" value="Social Media: Social Media Followers">Social Media: Social Media Follwers $100.00 USD</input><br/>
-                       <input type="checkbox" value="Social Medai: Ad Calendar">Social Media: Ad Calendar $50.00 USD</input>
+                       <p class="frm_srv_p">Social Media: Social Media Analysis $150.00 USD
+                         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                           <input type="hidden" name="cmd" value="_s-xclick">
+                           <input type="hidden" name="hosted_button_id" value="L5NH6EZZRHFXC">
+                           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                         </form>
+                       </p>
+                       <p class="frm_srv_p">Social Media: Social Media Management $150.00 USD {Hourly}
+                         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                           <input type="hidden" name="cmd" value="_s-xclick">
+                           <input type="hidden" name="hosted_button_id" value="9DN3NYMJSVKMU">
+                           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                         </form>
+                       </p>
+                       <p class="frm_srv_p">Social Media: Social Media Followers $100.00 USD
+                         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                           <input type="hidden" name="cmd" value="_s-xclick">
+                           <input type="hidden" name="hosted_button_id" value="LM7ZT6PN7SMCN">
+                           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                         </form>
+                       </p>
+                       <p class="frm_srv_p">Social Media: Ad Calendar $50.00 USD
+                         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                           <input type="hidden" name="cmd" value="_s-xclick">
+                           <input type="hidden" name="hosted_button_id" value="KUN2P8N4P9RKA">
+                           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                         </form>
+                       </p>
                       </td>
                     </tr>
-              </table><br/>
-              <input type="hidden" name="currency_code" value="USD">
-              <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-              <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form>
+              </table>
 
             <p style="font-size: 10px">* Special Financing Available To Those Who Qualify! Call Now For Details (815) 549-0362</p>
           </div>
